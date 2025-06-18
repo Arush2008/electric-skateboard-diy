@@ -19,7 +19,7 @@ I started plaining about my deck for the skateboard and how I am going to make i
 
 ![IMG_2978](https://github.com/user-attachments/assets/6b865817-4626-4d08-bf29-6466cbab2632)
 
-**Time spend : 1 hours**
+**Time spend : 2.5 hours**
 
 
 # **18-June-2025**
@@ -30,4 +30,4 @@ What I did :
 -I wrote my daily log for journal  
 -I started making my 3D model of my project on fusion.  
 
-**Time spend : 3 hours**
+**Time spend : 3.5 hours**
