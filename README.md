@@ -1,4 +1,8 @@
-**Description of my project**
+# **Why I choose this project**
+I am Arush and I am very intrusted in things with wheels especially cars and bikes. I think electric skateboard is kind of smaller version of car and its soo cool as well. I was wondering to make an electric scooter before but then I changed my mind to electric skateboard due to budget and knowledge issues.
+
+
+# **Description of my project**
 
 I am thinking of making an electric skateboard which will move by a remote controller. The person who is riding the skateboard will be holding the remote controller and will be responsible for controlling the skateboard. The user can use the features of an electric skateboard from a remote controller like acceleration and brake. It will have the max speed of 30km per hour and the minimum speed of 1 or less. The user can control the speed of the board by the remote controller and can adjust the maximum speed by some simple codes like the maximum rotations per minute. The user can also break just by the remote controller using the slider on the remote controller.
 I will buy some of the things online which are difficult for me to make or not possible for me to make like the trucks, wheels and remote controller. Some of the things will be made by me like assembling the skateboard, the deck made out of maple plywood and the storage area for the battery and the electric components.
