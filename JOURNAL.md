@@ -30,4 +30,4 @@ What I did :
 -I wrote my daily log for journal  
 -I started making my 3D model of my project on fusion.  
 
-**Time spend : 3.5 hours**
+**Time spend : 2.5 hours**
