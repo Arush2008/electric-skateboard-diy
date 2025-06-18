@@ -22,9 +22,9 @@ I started plaining about my deck for the skateboard and how I am going to make i
 # **18-June-2025**
 I forgot to modify the repository and didnt touch for a long time and also didnt added any progress on it so I decided to finish it first and then move to 3D designing.  
 What I did :  
--I added a readme.md to my repo
--I wrote the description on the readme.md page
--I wrote my daily log for journal
--I started making my 3D model of my project on fusion.
+-I added a readme.md to my repo   
+-I wrote the description on the readme.md page  
+-I wrote my daily log for journal  
+-I started making my 3D model of my project on fusion.  
 
 **Time spend : 3 hours**
