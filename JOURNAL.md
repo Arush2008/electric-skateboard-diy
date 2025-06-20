@@ -22,7 +22,7 @@ I started researching the items I need like the hub moters, wheels & trucks, ESC
 # **15-June-2025**
 I started plaining about my deck for the skateboard and how I am going to make it like using 7-9 layers of thin mapel wood then eather using the vacume system or the press system. I also decided to make a mould for my deck to give it a shape. My mould will be not too complicated insted just a straight wood with a little curves in the middle and the edges. I also sketched a hand drawing of the things I need and I need to build which is not complete because of some sizes and items but it explains a lot then text.  
 
-objectstorage.com/s/v3/3a13e6c3e488909c82b44f779a74608437f311ac_screenshot_2025-06-20_at_8.57.23___pm.png)
+[objectstorage.com/s/v3/3a13e6c3e488909c82b44f779a74608437f311ac_screenshot_2025-06-20_at_8.57.23___pm.png)](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3a13e6c3e488909c82b44f779a74608437f311ac_screenshot_2025-06-20_at_8.57.23___pm.png)
 
 **Time spend : 2.5 hours**
 
