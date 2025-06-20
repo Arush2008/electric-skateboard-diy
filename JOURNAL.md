@@ -6,7 +6,7 @@ created_at: "2025-06-06"
 ---
 
 
-# **Total time spend yet : 8+ hours **
+# **Total time spend yet : 11+ hours **
 
 
 # **08-June-2025**
@@ -22,7 +22,7 @@ I started researching the items I need like the hub moters, wheels & trucks, ESC
 # **15-June-2025**
 I started plaining about my deck for the skateboard and how I am going to make it like using 7-9 layers of thin mapel wood then eather using the vacume system or the press system. I also decided to make a mould for my deck to give it a shape. My mould will be not too complicated insted just a straight wood with a little curves in the middle and the edges. I also sketched a hand drawing of the things I need and I need to build which is not complete because of some sizes and items but it explains a lot then text.  
 
-![IMG_2978](https://github.com/user-attachments/assets/6b865817-4626-4d08-bf29-6466cbab2632)
+objectstorage.com/s/v3/3a13e6c3e488909c82b44f779a74608437f311ac_screenshot_2025-06-20_at_8.57.23___pm.png)
 
 **Time spend : 2.5 hours**
 
@@ -36,3 +36,11 @@ What I did :
 -I started making my 3D model of my project on fusion.  
 
 **Time spend : 2.5 hours**
+
+
+# **20-June-2025**
+I made the part of the skateboard in fusion 360 for 3D design. The sixe as design are not the one that I am going to use becuase I dont know which wheels and trucks I am going to use but I will keep the size of the wheels mostly the same because I know the best hight and weidth of tyres for my project. 
+
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/e59c5f2a0e8cac0e7a0fa838d80d65ba5e682025_screenshot_2025-06-20_at_8.55.02___pm.png
+
+**Time spend : 3 hours**
