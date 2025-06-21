@@ -18,25 +18,3 @@ For Waterproofing : I can use some pieces of foam from the inside of the housing
 
 
 
-## Bill of Materials (BOM)
-
-| **Item**                        | **Quantity** | **Estimated Cost (USD)** | **links**                                                              |
-|-------------------------------|--------------|---------------------------|------------------------------------------------------------------------|
-| Maple Plywood Sheets (Thin)   | 7–9          | $20                       | For building and laminating the deck                                   |
-| Wood Glue                     | 1 bottle     | $15                       | Used to glue deck layers                                               |
-| Foam (for Deck Mold)          | 1 sheet      | $5                        | Used to shape deck while pressing                                      |
-| Vacuum Seal Bag + Pump        | 1 set        | $30                       | For applying pressure to the laminated wood layers                     |
-| Hub Motor Wheels (Mapoo V4S)  | 2            | included below            |      👇                                                                |
-| Standard Wheels               | 2            | $75                       | Getting from facebook marketplace                                      |
-| Trucks                        | 2            | incuded above             |      ☝️                                                                |
-| ESC (Dual Motor Controller)   | 1            | $80                       | Controls speed and braking                                             |
-| Remote Controller             | 1            | $16                       | With speed/brake slider and screen                                     |
-| 36V Battery Pack (10S2P)      | 1            | $100                      | 10S2P, 36V, with BMS (15A discharge)                                   |
-| PETG Filament (1kg)           | 1 roll       | $18                       | For 3D printed battery housing                                         |
-| Metal Plate (Support)         | 1            | $5                        | Added under battery housing for strength                               |
-| Thread Locker (Blue)          | 2 bottle     | $2                        | Prevents screws from loosening                                         |
-| Rubber Shock Pads (6mm)       | 2            | $3                        | For vibration absorption                                               |
-| Grip Tape                     | 1 roll       | $2.50                     | For grip on deck surface                                               |
-| Screws, Nuts, Washers         | NA           | $5                        | General mounting hardware                                              |
-
-
