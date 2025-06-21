@@ -15,3 +15,28 @@ My E-skateboard will not be so fancy instead it will be just a normal classic sk
 For the deck’s durability : After my deck is finished I will perform some of the major tests to check the durability and the waterproofing. I will put some weight on the board and then keep increasing the weight until I get to my expected weight. If the board starts creaking or starts bending from the middle then the deck must have some more improvement but if the deck is strong and doesn't bend it's perfect for my weight. I will also do another weight test after it passes the first weight test by standing on the deck and then lightly jumping on it and if the deck is still and don't bend it's good for my weight even if I jump. Lastly, If I will apply waterproof coating on the deck I will test it as well by pouring some water on the board - If the water slides then the coat is good enough but if the wood soaks the water the duck must need some more waterproofing coating. 
 For Trucks & wheels durability : I will do some of the research on the trucks & wheels that I am going to use like what material they are made up of and which company they are made by. The trucks must be made up of high quality material like aluminium and metal and in my project I am going to use aluminium alloy which are both durable and lightweight. I will also be ensuring what company they are made by, the trusted companies wheels & trucks will be high quality. I am going to use the mepoo shuffle’s trucks and wheels which is a trusted company with great reviews.
 For Waterproofing : I can use some pieces of foam from the inside of the housing to prevent the water from going inside and I will use the PETG filament for the housing which is more water resistance then the other 3D printing filaments and then I will also test it by sprawing the housing from outside when it's empty from inside and do multiple tests on it until the inside is dry when sprawing from outside.
+
+
+
+## Bill of Materials (BOM)
+
+| **Item**                        | **Quantity** | **Estimated Cost (USD)** | **links**                                                              |
+|-------------------------------|--------------|---------------------------|------------------------------------------------------------------------|
+| Maple Plywood Sheets (Thin)   | 7–9          | $20                       | For building and laminating the deck                                   |
+| Wood Glue                     | 1 bottle     | $15                       | Used to glue deck layers                                               |
+| Foam (for Deck Mold)          | 1 sheet      | $5                        | Used to shape deck while pressing                                      |
+| Vacuum Seal Bag + Pump        | 1 set        | $30                       | For applying pressure to the laminated wood layers                     |
+| Hub Motor Wheels (Mapoo V4S)  | 2            | included below            |      👇                                                                |
+| Standard Wheels               | 2            | $75                       | Getting from facebook marketplace                                      |
+| Trucks                        | 2            | incuded above             |      ☝️                                                                |
+| ESC (Dual Motor Controller)   | 1            | $80                       | Controls speed and braking                                             |
+| Remote Controller             | 1            | $16                       | With speed/brake slider and screen                                     |
+| 36V Battery Pack (10S2P)      | 1            | $100                      | 10S2P, 36V, with BMS (15A discharge)                                   |
+| PETG Filament (1kg)           | 1 roll       | $18                       | For 3D printed battery housing                                         |
+| Metal Plate (Support)         | 1            | $5                        | Added under battery housing for strength                               |
+| Thread Locker (Blue)          | 2 bottle     | $2                        | Prevents screws from loosening                                         |
+| Rubber Shock Pads (6mm)       | 2            | $3                        | For vibration absorption                                               |
+| Grip Tape                     | 1 roll       | $2.50                     | For grip on deck surface                                               |
+| Screws, Nuts, Washers         | NA           | $5                        | General mounting hardware                                              |
+
+
