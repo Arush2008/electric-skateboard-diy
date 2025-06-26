@@ -17,4 +17,35 @@ For Trucks & wheels durability : I will do some of the research on the trucks & 
 For Waterproofing : I can use some pieces of foam from the inside of the housing to prevent the water from going inside and I will use the PETG filament for the housing which is more water resistance then the other 3D printing filaments and then I will also test it by sprawing the housing from outside when it's empty from inside and do multiple tests on it until the inside is dry when sprawing from outside.
 
 
+## Bill of Materials (BOM)
+
+| **Item**                          | **Quantity** | **Estimated Cost (USD)** | **Source**   | **Link**                                                                                     |
+|----------------------------------|--------------|---------------------------|--------------|----------------------------------------------------------------------------------------------|
+| ESC + Remote Controller          | 1            | $58.00                    | AliExpress   | [Link](https://www.aliexpress.com/item/1005006417913529.html)                                |
+| 36V Battery Pack (10S2P)         | 1            | $150.00                   | AliExpress   | [Link](https://www.puaida.com/products/36v-battery-for-electirc-skateboards?variant=43630754496704) |
+| Thread Locker (Blue)             | 1 bottle     | $2.00                     | AliExpress   | [Link](https://www.aliexpress.com/item/1005008992937127.html)                                |
+| Rubber Shock Pads (3mm)          | 2            | $3.00                     | AliExpress   | [Link](https://www.aliexpress.com/item/1005009151705318.html)                                |
+| Dual Hub Motors, Trucks, Wheels  | 1 set        | $76.00                    | AliExpress   | Already bought early from Marketplace to prevent it from being sold                         |
+> **Note:** The dual hub motor, trucks, and wheels were purchased early for $76 due to limited availability and risk of being sold.
+---
+
+### ✅ Already Owned:
+
+| **Item**                      | **Status**       |
+|------------------------------|------------------|
+| Maple Plywood Sheets (Thin)  | Already Owned    |
+| Wood Glue                    | Already Owned    |
+| Foam (for Deck Mold)         | Already Owned    |
+| Vacuum Seal Bag + Pump       | Already Owned    |
+| PETG Filament (1kg)          | Already Owned    |
+| Metal Plate (Support)        | Already Owned    |
+| Screws, Nuts, Washers        | Already Owned    |
+| Grip Tape                    | Already Owned    |
+
+---
+
+### 💰 **Total Estimated Cost (Buy Items Only):**  
+**$289.00 USD**
+
+> **Note:** Final budget may be slightly more or less depending on discounts, shipping, and availability at time of purchase. All linked items are from AliExpress.
 
