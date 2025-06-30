@@ -19,17 +19,23 @@ For Waterproofing : I can use some pieces of foam from the inside of the housing
 
 ## Pictures of my Electric skteboard
 
-objectstorage.com/s/v3/3a13e6c3e488909c82b44f779a74608437f311ac_screenshot_2025-06-20_at_8.57.23___pm.png)
-   
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/e59c5f2a0e8cac0e7a0fa838d80d65ba5e682025_screenshot_2025-06-20_at_8.55.02___pm.png
-   
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/33902bdd7dc0591f9eb7a036ce94439c0437f3ba_screenshot_2025-06-30_at_11.58.37___pm.png
-   
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/81c2103a7acc7016bc6de8170eb7573f5ea10b44_screenshot_2025-06-30_at_11.33.46___pm.png
-   
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/29b4d3677c8b99ab21c8c2ca5b9cb5beadb9ffd0_screenshot_2025-06-30_at_11.34.08___pm.png 
-   
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/53802dbdf61230b3774737cfb963f3aaa19a6760_screenshot_2025-06-30_at_11.54.54___pm.png 
+objectstorage.com/s/v3/3a13e6c3e488909c82b44f779a74608437f311ac_screenshot_2025-06-20_at_8.57.23___pm.png)   
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/e59c5f2a0e8cac0e7a0fa838d80d65ba5e682025_screenshot_2025-06-20_at_8.55.02___pm.png    
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/33902bdd7dc0591f9eb7a036ce94439c0437f3ba_screenshot_2025-06-30_at_11.58.37___pm.png   
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/81c2103a7acc7016bc6de8170eb7573f5ea10b44_screenshot_2025-06-30_at_11.33.46___pm.png   
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/29b4d3677c8b99ab21c8c2ca5b9cb5beadb9ffd0_screenshot_2025-06-30_at_11.34.08___pm.png    
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/53802dbdf61230b3774737cfb963f3aaa19a6760_screenshot_2025-06-30_at_11.54.54___pm.png   
+
+
+## Screenshots of final product
+
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/f9a175c398da9410e1ef79e87181d88880e3000d_screenshot_2025-07-01_at_12.31.55___am.png   
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/7a3aaacb5f87bd4af83469055195a86b510e1a61_screenshot_2025-07-01_at_12.32.26___am.png   
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/f3dc2d9a01140734188f5e4e43e1d699fbc4d076_screenshot_2025-07-01_at_12.32.47___am.png   
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/36f71e6da527291ef57151ab64b96da53b57e66e_screenshot_2025-07-01_at_12.33.22___am.png   
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/8fcc97e1a781e37fa4ee5c5394e2883a7acc259b_screenshot_2025-07-01_at_12.33.50___am.png   
+
+
 
   
 
