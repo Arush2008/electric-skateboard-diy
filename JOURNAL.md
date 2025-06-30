@@ -65,9 +65,9 @@ https://hc-cdn.hel1.your-objectstorage.com/s/v3/e59c5f2a0e8cac0e7a0fa838d80d65ba
 # **29-June-2025**
 I made the deck and the housing for the battery and ESC for in fusion 360. The digrame do not include the battery design and the ESC and the size could be very likely to the battery and the connection area but it will be close. I also connected everything together to make a rough estimation on how my project is going to look like. As everything thing was kind of new for me I took a lot of time then needed time. 
 
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/81c2103a7acc7016bc6de8170eb7573f5ea10b44_screenshot_2025-06-30_at_11.33.46___pm.png
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/29b4d3677c8b99ab21c8c2ca5b9cb5beadb9ffd0_screenshot_2025-06-30_at_11.34.08___pm.png
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/53802dbdf61230b3774737cfb963f3aaa19a6760_screenshot_2025-06-30_at_11.54.54___pm.png
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/81c2103a7acc7016bc6de8170eb7573f5ea10b44_screenshot_2025-06-30_at_11.33.46___pm.png  
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/29b4d3677c8b99ab21c8c2ca5b9cb5beadb9ffd0_screenshot_2025-06-30_at_11.34.08___pm.png  
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/53802dbdf61230b3774737cfb963f3aaa19a6760_screenshot_2025-06-30_at_11.54.54___pm.png  
 
 
 **Time spend : 4 hours**
