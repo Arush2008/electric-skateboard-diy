@@ -17,6 +17,24 @@ For Trucks & wheels durability : I will do some of the research on the trucks & 
 For Waterproofing : I can use some pieces of foam from the inside of the housing to prevent the water from going inside and I will use the PETG filament for the housing which is more water resistance then the other 3D printing filaments and then I will also test it by sprawing the housing from outside when it's empty from inside and do multiple tests on it until the inside is dry when sprawing from outside.
 
 
+## Pictures of my Electric skteboard
+
+objectstorage.com/s/v3/3a13e6c3e488909c82b44f779a74608437f311ac_screenshot_2025-06-20_at_8.57.23___pm.png)
+   
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/e59c5f2a0e8cac0e7a0fa838d80d65ba5e682025_screenshot_2025-06-20_at_8.55.02___pm.png
+   
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/33902bdd7dc0591f9eb7a036ce94439c0437f3ba_screenshot_2025-06-30_at_11.58.37___pm.png
+   
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/81c2103a7acc7016bc6de8170eb7573f5ea10b44_screenshot_2025-06-30_at_11.33.46___pm.png
+   
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/29b4d3677c8b99ab21c8c2ca5b9cb5beadb9ffd0_screenshot_2025-06-30_at_11.34.08___pm.png 
+   
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/53802dbdf61230b3774737cfb963f3aaa19a6760_screenshot_2025-06-30_at_11.54.54___pm.png 
+
+  
+
+
+
 ## Bill of Materials (BOM)
 
 | **Item**                          | **Quantity** | **Estimated Cost (USD)** | **Source**   | **Link**                                                                                     |
