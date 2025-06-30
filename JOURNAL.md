@@ -6,7 +6,7 @@ created_at: "2025-06-06"
 ---
 
 
-# **Total time spend yet : 11+ hours **
+# **Total time spend yet : 20.5+ hours **
 
 
 # **08-June-2025**
@@ -44,3 +44,35 @@ I made the part of the skateboard in fusion 360 for 3D design. The sixe as desig
 https://hc-cdn.hel1.your-objectstorage.com/s/v3/e59c5f2a0e8cac0e7a0fa838d80d65ba5e682025_screenshot_2025-06-20_at_8.55.02___pm.png
 
 **Time spend : 3 hours**
+
+
+# **24-June-2025**
+I made all the wheels for the skateboard and tried my best to keep it same as the needed wheels. 
+
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/e59c5f2a0e8cac0e7a0fa838d80d65ba5e682025_screenshot_2025-06-20_at_8.55.02___pm.png
+
+**Time spend : 1 hour**
+
+
+# **26-June-2025**
+I made the imaginary connection by taking the photots from different parts and then connecting them together as there are not any specific website or app where I can get the same parts but with the imaginary connections will be almost the same as the real ones.
+
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/e59c5f2a0e8cac0e7a0fa838d80d65ba5e682025_screenshot_2025-06-20_at_8.55.02___pm.png
+
+**Time spend : 1.5 hours**
+
+
+# **29-June-2025**
+I made the deck and the housing for the battery and ESC for in fusion 360. The digrame do not include the battery design and the ESC and the size could be very likely to the battery and the connection area but it will be close. I also connected everything together to make a rough estimation on how my project is going to look like. As everything thing was kind of new for me I took a lot of time then needed time. 
+
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/e59c5f2a0e8cac0e7a0fa838d80d65ba5e682025_screenshot_2025-06-20_at_8.55.02___pm.png
+
+**Time spend : 4 hours**
+
+
+# **30-June-2025**
+I didnt edited my repo for like 10 days so thats why I edited my all reposetories and added new stuff on it. 
+
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/e59c5f2a0e8cac0e7a0fa838d80d65ba5e682025_screenshot_2025-06-20_at_8.55.02___pm.png
+
+**Time spend : 1 hour**
