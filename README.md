@@ -49,7 +49,7 @@ https://hc-cdn.hel1.your-objectstorage.com/s/v3/b2fbd481e9d4c95875ee72f4cdf1a128
 | **Item**                          | **Quantity** | **Estimated Cost (USD)** | **Source**   | **Link**                                                                                     |
 |----------------------------------|--------------|---------------------------|--------------|----------------------------------------------------------------------------------------------|
 | ESC + Remote Controller          | 1            | $58.00                    | AliExpress   | [Link](https://www.aliexpress.com/item/1005006417913529.html)                                |
-| 36V Battery Pack (10S2P)         | 1            | $150.00                   | AliExpress   | [Link](https://www.puaida.com/products/36v-battery-for-electirc-skateboards?variant=43630754496704) |
+| 36V Battery Pack (10S2P)         | 1            | $150.00                   | Puaida       | [Link](https://www.puaida.com/products/36v-battery-for-electirc-skateboards?variant=43630754496704) |
 | Thread Locker (Blue)             | 1 bottle     | $2.00                     | AliExpress   | [Link](https://www.aliexpress.com/item/1005008992937127.html)                                |
 | Rubber Shock Pads (3mm)          | 2            | $3.00                     | AliExpress   | [Link](https://www.aliexpress.com/item/1005009151705318.html)                                |
 | Dual Hub Motors, Trucks, Wheels  | 1 set        | $76.00                    | AliExpress   | Already bought early from Marketplace to prevent it from being sold                         |
@@ -74,5 +74,5 @@ https://hc-cdn.hel1.your-objectstorage.com/s/v3/b2fbd481e9d4c95875ee72f4cdf1a128
 ### 💰 **Total Estimated Cost (Buy Items Only):**  
 **$289.00 USD**
 
-> **Note:** Final budget may be slightly more or less depending on discounts, shipping, and availability at time of purchase. All linked items are from AliExpress.
+> **Note:** Final budget may be slightly more or less depending on discounts, shipping, and availability at time of purchase. All linked items are from AliExpress except the battery.
 
