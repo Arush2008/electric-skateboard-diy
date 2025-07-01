@@ -36,6 +36,9 @@ https://hc-cdn.hel1.your-objectstorage.com/s/v3/36f71e6da527291ef57151ab64b96da5
 https://hc-cdn.hel1.your-objectstorage.com/s/v3/8fcc97e1a781e37fa4ee5c5394e2883a7acc259b_screenshot_2025-07-01_at_12.33.50___am.png   
 
 
+## Screenshots of the wireings 
+
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/b2fbd481e9d4c95875ee72f4cdf1a128b214a29a_all_the_connections_will_be_directed_conected_insted_of_using_external_wire._this_is_just_to_show_how_and_were_everything_is_going_to_be_connected..png    
 
   
 
