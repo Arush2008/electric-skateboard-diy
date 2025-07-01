@@ -49,7 +49,7 @@ I made the part of the skateboard in fusion 360 for 3D design. The sixe as desig
 # **24-June-2025**
 I made all the wheels for the skateboard and tried my best to keep it same as the needed wheels. 
 
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/33902bdd7dc0591f9eb7a036ce94439c0437f3ba_screenshot_2025-06-30_at_11.58.37___pm.png
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/33902bdd7dc0591f9eb7a036ce94439c0437f3ba_screenshot_2025-06-30_at_11.58.37___pm.png)
 
 **Time spend : 1 hour**
 
