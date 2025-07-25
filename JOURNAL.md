@@ -10,12 +10,12 @@ created_at: "2025-06-06"
 
 
 # **08-June-2025**
-I researched some things about my project like how I can build it, how I can make it cheap, what are the key points that needs to be keep in mind, what are the esential parts of the e-skateboard and many more. I watched some youtube videos on diy e-skateboard to take some ideas on how I can make mine batter.  
-  
+On 8th of june I firstly researched about my projects all the research which took me around 2 hrs the first hr I worked on the desing so firstly I went to youtube and find the video which can explain how I can build an e-scateboard and after watching multiple videos I realized those all are like 5-6 years ago and at this point those parts are not in suply anymore or those parts are too expensive in todays time. Then I found the latest video where I can get all the parts together which I was not able to then I switched on how to make skateboard insted of looking for the parts so I started to watch some more youtube videos and found the best video which explained everything properly. these all things took me around 2 hrs to research.  
+
 **Time spend : 2 hours**
 
 # **12-June-2025**
-I started researching the items I need like the hub moters, wheels & trucks, ESC and battery. I got a person selling hub motors and wheels & trucks in facebook marketplace and I aslo found ESC and battery on aliexpress which is a bit expensive but I have locked them for now until I find something cheaper. I will order the stuff when I get the funding till that I will focus on modifying my git repo and 3D model of my project.  
+On 12 june I started researching about the parts so firstly as usual I jumped into youtube and starting tutorials and I didnt took long to realize that tutorials are a bit to expensive for parts so that why I insted went to the cheapest store ali express and after going there I had no idea what to do so I went to chat gpt and asked it for the stuff I need for e-skateboard. IDK what chatgpt said but then I tried researching the parts seprately on youtube like how much should be the battery voltage, the motor voltage, which esc I have to buy and if I have to buy duel hub esc or single hub. I also researched if I should make my own function for motor wheel using a different motor and and a pully and stuff like that but I didnt lock that until I finish my research. I found some cheap stuff from ali express which were not really cheap so I didnt locked them. I realize that the battery is the most important part of my setup so I had to choose the good batter thats why I didnt lock any of the batteries and for the wheels I didnt locked any as well due to confusion between hub wheel or motor wheel But choose some parts for motor wheel. Finally after around 2 hrs of youtube and 1 hr of extra stuff it took me around 3 hrs to finish with everything and I had to still find some more stuff which I didnt locked in.
 
 **Time spend : 3 hours**
 
